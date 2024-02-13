@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/demo-visjs/static/css/main.95669e82.chunk.css",
-    "main.js": "/demo-visjs/static/js/main.51dadf29.chunk.js",
-    "main.js.map": "/demo-visjs/static/js/main.51dadf29.chunk.js.map",
+    "main.css": "/demo-visjs/static/css/main.23c0f923.chunk.css",
+    "main.js": "/demo-visjs/static/js/main.e00cc486.chunk.js",
+    "main.js.map": "/demo-visjs/static/js/main.e00cc486.chunk.js.map",
     "runtime-main.js": "/demo-visjs/static/js/runtime-main.4e248207.js",
     "runtime-main.js.map": "/demo-visjs/static/js/runtime-main.4e248207.js.map",
     "static/css/2.2ddb90c1.chunk.css": "/demo-visjs/static/css/2.2ddb90c1.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.72a5723c.chunk.js.map": "/demo-visjs/static/js/2.72a5723c.chunk.js.map",
     "index.html": "/demo-visjs/index.html",
     "static/css/2.2ddb90c1.chunk.css.map": "/demo-visjs/static/css/2.2ddb90c1.chunk.css.map",
-    "static/css/main.95669e82.chunk.css.map": "/demo-visjs/static/css/main.95669e82.chunk.css.map",
+    "static/css/main.23c0f923.chunk.css.map": "/demo-visjs/static/css/main.23c0f923.chunk.css.map",
     "static/js/2.72a5723c.chunk.js.LICENSE.txt": "/demo-visjs/static/js/2.72a5723c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e248207.js",
     "static/css/2.2ddb90c1.chunk.css",
     "static/js/2.72a5723c.chunk.js",
-    "static/css/main.95669e82.chunk.css",
-    "static/js/main.51dadf29.chunk.js"
+    "static/css/main.23c0f923.chunk.css",
+    "static/js/main.e00cc486.chunk.js"
   ]
 }
